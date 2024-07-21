@@ -19,5 +19,5 @@ i.  streamlit run app.py
 
 
 
-5. IP will show in terminal, click on it and open it in browser.
-i. Like this [http://192.167.53.238:8501]
+[5] IP will show in terminal, click on it and open it in browser.
+i.  Like this [http://192.167.53.238:8501]
