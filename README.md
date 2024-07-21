@@ -11,7 +11,7 @@ i.  pip install -r requirements.txt
 
 [3] Go to (.env) and paste the API key of your Gemini Pro
 i.  like this key [AIzaSyBGfYxiHqkd1AWuFf3LrmA602NwPji4esI]
-
+ii. Hint this is not real key 
 
 
 [4] Run streamlit run app.py in terminal.
